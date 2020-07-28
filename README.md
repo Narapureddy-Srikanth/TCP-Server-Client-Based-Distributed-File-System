@@ -2,7 +2,7 @@
 
 ### Aim ###
 
-* To built a file transmission program
+* To transfer files
 
 ### Description ###
 
