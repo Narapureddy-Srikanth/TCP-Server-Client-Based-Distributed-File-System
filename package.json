@@ -1,0 +1,19 @@
+{
+  "name": "tcp-server-client-based-distributed-file-system",
+  "version": "1.0.0",
+  "description": "Built Server-Client file-transfer program in C language\u001b[1;3D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b:\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b\u001b[C\u001b[C\u001b[3~\u001b[3~\u001b[3~\u001b[3~",
+  "main": "\u001b",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Narapureddy-Srikanth/TCP-Server-Client-Based-Distributed-File-System.git"
+  },
+  "author": "Narapureddy Srikanth",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Narapureddy-Srikanth/TCP-Server-Client-Based-Distributed-File-System/issues"
+  },
+  "homepage": "https://github.com/Narapureddy-Srikanth/TCP-Server-Client-Based-Distributed-File-System#readme"
+}
